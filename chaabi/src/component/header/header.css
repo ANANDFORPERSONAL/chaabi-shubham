@@ -1,0 +1,54 @@
+
+.header-container {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+
+  .header-image {
+    position: absolute;
+    top: 0;
+    left: 360px;
+    width: 75%;
+
+    height: 145px;
+    top: -1100px;
+  }
+
+  .line1{
+    width: 534px;
+    height: 67px;     
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 67px;
+    letter-spacing: 0em;
+    text-align: left;
+    left: 375px;
+    position: absolute;
+    top: -1100px;
+    color: white;
+
+
+  }
+
+  .line2{
+    width: 524px;
+height: 27px;
+font-family: Poppins;
+font-size: 19px;
+font-weight: 400;
+line-height: 27px;
+letter-spacing: 0em;
+text-align: left;
+left: 380px;
+position: absolute;
+top: -1000px;
+color: white;
+
+  }
+
+
+  
